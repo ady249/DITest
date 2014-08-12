@@ -1,0 +1,11 @@
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\bin\Debug\HelloDITests.dll
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\bin\Debug\HelloDITests.pdb
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\bin\Debug\HelloDI.exe
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\bin\Debug\NSubstitute.dll
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\bin\Debug\nunit.framework.dll
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\bin\Debug\HelloDI.pdb
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\bin\Debug\NSubstitute.xml
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\bin\Debug\nunit.framework.xml
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\obj\Debug\HelloDITests.csprojResolveAssemblyReference.cache
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\obj\Debug\HelloDITests.dll
+c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\obj\Debug\HelloDITests.pdb

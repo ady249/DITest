@@ -1,0 +1,9 @@
+c:\users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDI\bin\Debug\HelloDI.exe.config
+c:\users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDI\bin\Debug\HelloDI.exe
+c:\users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDI\bin\Debug\HelloDI.pdb
+c:\users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDI\obj\Debug\HelloDI.csprojResolveAssemblyReference.cache
+c:\users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDI\obj\Debug\HelloDI.exe
+c:\users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDI\obj\Debug\HelloDI.pdb
+C:\Users\heathcotea\Source\Repos\NewRepo\HelloDI\HelloDI\bin\Debug\HelloDI.exe.config
+C:\Users\heathcotea\Source\Repos\NewRepo\HelloDI\HelloDI\obj\Debug\HelloDI.exe
+C:\Users\heathcotea\Source\Repos\NewRepo\HelloDI\HelloDI\obj\Debug\HelloDI.pdb
