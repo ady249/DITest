@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Configuration;
+using System.Diagnostics;
 
 using HelloDI.Interfaces;
 using HelloDI.Classes;
@@ -26,6 +27,8 @@ namespace HelloDI
 			secureMessageWriter.Write("HelloDI via Extensibility");
 
 			Console.ReadLine();
+
+			Trace.WriteLine("Force Git to update");
 		}
 	}
 }
