@@ -10,3 +10,6 @@ C:\Users\heathcotea\Source\Repos\NewRepo\HelloDI\HelloDI\obj\Debug\HelloDI.pdb
 C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDI\bin\Debug\HelloDI.exe.config
 C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDI\obj\Debug\HelloDI.exe
 C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDI\obj\Debug\HelloDI.pdb
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDI\bin\Debug\HelloDI.exe
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDI\bin\Debug\HelloDI.pdb
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDI\obj\Debug\HelloDI.csprojResolveAssemblyReference.cache

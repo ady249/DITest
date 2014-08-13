@@ -9,3 +9,14 @@ c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\b
 c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\obj\Debug\HelloDITests.csprojResolveAssemblyReference.cache
 c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\obj\Debug\HelloDITests.dll
 c:\Users\heathcotea\documents\visual studio 2013\Projects\HelloDI\HelloDITests\obj\Debug\HelloDITests.pdb
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\bin\Debug\HelloDITests.dll
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\bin\Debug\HelloDITests.pdb
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\bin\Debug\HelloDI.exe
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\bin\Debug\NSubstitute.dll
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\bin\Debug\nunit.framework.dll
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\bin\Debug\HelloDI.pdb
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\bin\Debug\NSubstitute.xml
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\bin\Debug\nunit.framework.xml
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\obj\Debug\HelloDITests.csprojResolveAssemblyReference.cache
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\obj\Debug\HelloDITests.dll
+C:\Users\heathcotea\Documents\DITest\HelloDI\HelloDITests\obj\Debug\HelloDITests.pdb
